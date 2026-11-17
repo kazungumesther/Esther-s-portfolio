@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.retro-title {
+  color: #85b59f;
+  text-shadow: 3px 3px 0px #cdc8af;
+}
+.carousel-arrow {
+  background-color: #f5efe6;
+  border: 1.5px solid #9e9b95;
+  color: #9e9b95;
+  box-shadow: 3px 3px 0px #9e9b95;
+}
+
+.carousel-arrow:hover:not(:disabled) {
+  border-color: #1c2536;
+  color: #1c2536;
+  box-shadow: 3px 3px 0px #1c2536;
+  transform: translate(-1px, -1px);
+}

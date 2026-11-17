@@ -1,16 +1,39 @@
-# React + Vite
+# Esther Kazungu — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A neo-brutalist, editorial developer portfolio built with **React**, **Vite**, and **Tailwind CSS**, showcasing my work in mobile and web software development.
 
-Currently, two official plugins are available:
+## Featured Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Afyra** — A crop-residue collection and logistics platform backed by primary field research across Kenya's livestock feed value chain.
+* **MedMinder** — A mobile app and web dashboard designed to simplify daily medication schedules, meal instructions, and dose adherence.
+* **Stocktake** — An offline-first inventory tracking app built with Flutter, Riverpod, Drift (SQLite), and Supabase sync.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Frontend:** React, React Router, Tailwind CSS
+* **Build Tool:** Vite
+* **Typography:** Playfair Display & Plus Jakarta Sans
+* **Deployment:** Vercel
 
-## Expanding the Oxlint configuration
+## Running Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com
+   cd Esther-s-portfolio
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Contact
+
+* **GitHub:** [@kazungumesther](https://github.com)
+* **Portfolio:** Live on Vercel
